@@ -1,5 +1,5 @@
 # MOCO GAME
-
+![welcome](https://github.com/user-attachments/assets/81a45c6c-62dc-41f9-ae56-3e13523cd5ce)
 
 MOCO GAME es un emocionante juego 2D desarrollado en **Pygame Zero**. El objetivo es esquivar obstáculos y sobrevivir el mayor tiempo posible mientras controlas un personaje animado en un mundo interactivo.
 
@@ -21,38 +21,6 @@ MOCO GAME es un emocionante juego 2D desarrollado en **Pygame Zero**. El objetiv
 
 ---
 
-## Instalación
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/facu1401/moco-game.git
-
-    Navega al directorio del proyecto:
-
-cd moco-game
-
-Asegúrate de tener Pygame Zero instalado. Si no lo tienes, instálalo con:
-
-    pip install pg
-
-Tú dijiste:
-no me lo separes, todo dentro lde l codigo
-ChatGPT Plus
-ChatGPT
-
-Aquí tienes el README.md todo unido dentro de un solo bloque de código en Markdown:
-
-# MOCO GAME
-MOCO GAME es un emocionante juego 2D desarrollado en **Pygame Zero**. El objetivo es esquivar obstáculos y sobrevivir el mayor tiempo posible mientras controlas un personaje animado en un mundo interactivo.
-## Características
-- **Pantalla de bienvenida**: Incluye un menú interactivo con botones de "Jugar" y "Tienda".
-- **Controles simples**: Usa las flechas o teclas WASD para moverte.
-- **Desafíos**: Esquiva obstáculos en movimiento y fijos.
-- **Pantalla de Game Over**: Indica cuándo el jugador pierde.
-- **Animaciones suaves**: El personaje puede saltar con efectos animados.
-- **Estilo minimalista**: Un diseño sencillo y divertido.
-## Requisitos del Sistema
-- Python 3.8 o superior.
-- Pygame Zero instalado.
 ## Instalación
 1. Clona este repositorio en tu máquina local:
    ```
